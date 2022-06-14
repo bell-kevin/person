@@ -1,2 +1,2 @@
 # person
-swapp names
+swap names
